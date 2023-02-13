@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\Regix\FirstName\bin\Debug\FirstName.exe.config
+C:\Users\Uday\OneDrive\Desktop\Regix\FirstName\bin\Debug\FirstName.exe
+C:\Users\Uday\OneDrive\Desktop\Regix\FirstName\bin\Debug\FirstName.pdb
+C:\Users\Uday\OneDrive\Desktop\Regix\FirstName\obj\Debug\FirstName.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\Regix\FirstName\obj\Debug\FirstName.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\Regix\FirstName\obj\Debug\FirstName.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\Regix\FirstName\obj\Debug\FirstName.exe
+C:\Users\Uday\OneDrive\Desktop\Regix\FirstName\obj\Debug\FirstName.pdb
